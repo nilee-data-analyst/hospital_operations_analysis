@@ -1,11 +1,17 @@
 I built this healthcare analytics dashboard using Power BI, SQL, DAX, and Power Query to understand what’s really going on inside hospital operations — from patient admissions to revenue and treatment trends.
 
 **Problem Statement
+
 -This project focuses on questions like:
+
 1.How are patient admissions trending over time?
+
 2.What types of cases (emergency, urgent, elective) dominate hospital workload?
+
 3.Which medical conditions are most common?
+
 4.Is hospital efficiency improving (length of stay)?
+
 5.How is revenue distributed across hospitals and insurance providers?
 
 **While working on this, a few things stood out to me:
